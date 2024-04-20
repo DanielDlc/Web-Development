@@ -54,5 +54,4 @@ Finally, these are some of my favorites projects that came out of this process
 -   [960 Grid](https://960.gs/)
 -   [Canva](https://www.canva.com/pt_br/)
 
-And remember, you can check all the other ones [here!](https://ivanvb.github.io/100-days-front-end/)
 
