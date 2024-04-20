@@ -4,8 +4,6 @@
 
 I will build a mini website in plain HTML, CSS and Javascript for 100 days, these websites will be proof of concepts in many cases that will allow me to practice some specific concept while building something with it at the same time!
 
-You can check my progress [here](https://ivanvb.github.io/100-days-front-end/)
-
 ## Why?
 
 At the time of starting this challenge I've been working with web technologies for over a year. During this year I've learnt quite a lot, however I've been feeling like I am relying too much on libraries like Bootstrap to achieve some stylings that I could easily do myself.
@@ -46,12 +44,15 @@ Among the many concepts I was able to practice while doing these daily projects 
 
 Finally, these are some of my favorites projects that came out of this process
 
--   [Modern Art Generator](https://ivanvb.github.io/100-days-front-end/days/Day-031/index.html)
--   [Web iPhone](https://ivanvb.github.io/100-days-front-end/days/Day-017/index.html)
--   [Animated tic tac toe](https://ivanvb.github.io/100-days-front-end/days/Day-015/index.html)
--   [Conway's Game of life](https://ivanvb.github.io/100-days-front-end/days/Day-042/index.html)
--   [Space Cube](https://ivanvb.github.io/100-days-front-end/days/Day-085/index.html)
--   [Memory Card Game](https://ivanvb.github.io/100-days-front-end/days/Day-097/index.html)
+-   [HTML Tutorial](https://www.w3schools.com/html/)
+-   [CSS Tutorial](https://www.w3schools.com/css/default.asp)
+-   [HTML5 UP](https://html5up.net/)
+-   [Codepen](https://codepen.io/trending)
+-   [Design](https://www.design-seeds.com/)
+-   [React Toastify](https://www.npmjs.com/package/react-toastify)
+-   [Unsplash](https://unsplash.com/pt-br)
+-   [960 Grid](https://960.gs/)
+-   [Canva](https://www.canva.com/pt_br/)
 
 And remember, you can check all the other ones [here!](https://ivanvb.github.io/100-days-front-end/)
 
